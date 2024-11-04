@@ -1,0 +1,11 @@
+projeto/
+├── app.py  # Arquivo principal com as rotas
+├── templates/
+│   ├── index.html  # Página inicial
+│   ├── listar_clientes.html  # Página de listagem de clientes
+│   └── adicionar_cliente.html  # Página para adicionar cliente
+└── static/
+    ├── css/
+    │   └── estilo.css  # Arquivo CSS para estilizar as páginas
+    └── js/
+        └── script.js  # Arquivo JavaScript para interatividade
